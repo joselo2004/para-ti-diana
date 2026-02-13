@@ -101,7 +101,7 @@
 <body>
 
   <div class="card">
-    <h1>Para ti, MARCAS BARRETO STEFANY💝</h1>
+    <h1>Para ti, LESLY DIANA PAREDES ROJAS💝</h1>
 
     <div class="heart">❤️</div>
 
@@ -144,10 +144,10 @@ solo alguien que no se vaya.
 
     <!-- 📸 Galería de fotos -->
     <div class="galeria">
-      <img src="STEFANY.jpg" alt="Foto 1"> 
-      <img src="STEFANY1.jpg" alt="Foto 2"> 
-      <img src="STEFANY2.jpg" alt="Foto 3"> 
-      <img src="STEFANY3.jpeg" alt="Foto 4"> 
+      <img src="DIANA.jpeg" alt="Foto 1">
+      <img src="DIANA1.jpeg" alt="Foto 2">
+      <img src="DIANA2.jpeg" alt="Foto 3">
+      <img src="DIANA3.jpeg" alt="Foto 4">
     </div>
 
     <button onclick="mostrarMensaje()">Toca aquí 💌</button>
